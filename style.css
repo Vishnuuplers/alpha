@@ -64,4 +64,4 @@ h5 {font-size: 20px;line-height: normal;font-weight: 700;font-family: "stolzl",s
 .col-70{width: 70%;}
 .col-80{width: 80%;}
 .col-90{width: 90%;}
-
+.all-ease{transition: all ease 0.5s;}
